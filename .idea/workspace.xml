@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Punchbag Game/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Punchbag Game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Punchbag Game/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Episode 15" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\vuejs-tutorial-app" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587202728314</updated>
       <workItem from="1587202729731" duration="6565000" />
-      <workItem from="1587224381753" duration="889000" />
+      <workItem from="1587224381753" duration="1724000" />
     </task>
     <servers />
   </component>

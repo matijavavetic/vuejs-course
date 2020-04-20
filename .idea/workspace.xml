@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Episode 21/vuejs/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Episode 21/vuejs/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Episode 21/vuejs/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Episode 21/vuejs/src/components/Footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Episode 21/vuejs/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Episode 21/vuejs/src/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Episode 21/vuejs/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Episode 21/vuejs/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <updated>1587202728314</updated>
       <workItem from="1587202729731" duration="6565000" />
       <workItem from="1587224381753" duration="2700000" />
-      <workItem from="1587377345878" duration="6504000" />
+      <workItem from="1587377345878" duration="6922000" />
     </task>
     <servers />
   </component>
@@ -75,6 +76,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587377525879" />
+    <state x="136" y="242" key="run.anything.popup" timestamp="1587385854655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587385854655" />
     <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1587206478850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

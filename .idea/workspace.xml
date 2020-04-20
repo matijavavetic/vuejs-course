@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/Ninjas.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/Ninjas.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Episode 20/vuejs-playlist/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +42,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Episode 16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Episode 20" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\projects\vuejs-tutorial-app" />
-      <recent name="C:\projects\vuejs-tutorial-app\Episode 14" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\vuejs-tutorial-app\Episode 20" />
       <recent name="C:\projects\vuejs-tutorial-app\Episode 16" />
       <recent name="C:\projects\vuejs-tutorial-app\Episode 15" />
       <recent name="C:\projects\vuejs-tutorial-app\Episode 14" />
       <recent name="C:\projects\vuejs-tutorial-app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\vuejs-tutorial-app" />
+      <recent name="C:\projects\vuejs-tutorial-app\Episode 14" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -57,7 +70,7 @@
       <updated>1587202728314</updated>
       <workItem from="1587202729731" duration="6565000" />
       <workItem from="1587224381753" duration="2700000" />
-      <workItem from="1587377345878" duration="2827000" />
+      <workItem from="1587377345878" duration="3829000" />
     </task>
     <servers />
   </component>

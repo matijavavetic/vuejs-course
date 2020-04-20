@@ -19,7 +19,7 @@
 
     methods: {
       changeTitle: function() {
-        this.title = "New Title";
+        this.$emit('changeTitle', "Vue Wizards");
       }
     }
   }

@@ -2,84 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Blog/src/components/header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/src/components/singleBlog.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 14/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 14/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 14/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 15/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 15/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 15/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 16/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 16/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 16/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 17/vuejs-playlist/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/Ninjas.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 19/vuejs-playlist/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/Ninjas.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 20/vuejs-playlist/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/src/components/Footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/src/components/Header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/src/components/Ninjas.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 21-26/vuejs/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/src/components/formHelper.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/src/components/formOne.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/src/components/formTwo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episode 27/vuejs/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episodes 1-12/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episodes 1-12/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Episodes 1-12/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +63,7 @@
       <workItem from="1587224381753" duration="2700000" />
       <workItem from="1587377345878" duration="11813000" />
       <workItem from="1587462241575" duration="5410000" />
-      <workItem from="1587472376047" duration="556000" />
+      <workItem from="1587472376047" duration="1389000" />
     </task>
     <servers />
   </component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/src/components/addBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/components/addBlog.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,8 @@
       <updated>1587202728314</updated>
       <workItem from="1587202729731" duration="6565000" />
       <workItem from="1587224381753" duration="2700000" />
-      <workItem from="1587377345878" duration="11573000" />
+      <workItem from="1587377345878" duration="11813000" />
+      <workItem from="1587462241575" duration="256000" />
     </task>
     <servers />
   </component>

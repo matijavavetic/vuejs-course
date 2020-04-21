@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Blog/src/components/listBlogs.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blog/src/mixins/searchMixin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/src/components/showBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/components/showBlog.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <workItem from="1587202729731" duration="6565000" />
       <workItem from="1587224381753" duration="2700000" />
       <workItem from="1587377345878" duration="11813000" />
-      <workItem from="1587462241575" duration="4556000" />
+      <workItem from="1587462241575" duration="5052000" />
     </task>
     <servers />
   </component>

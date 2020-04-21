@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/src/components/showBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/components/showBlog.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/main.js" afterDir="false" />
     </list>
@@ -62,7 +60,7 @@
       <workItem from="1587202729731" duration="6565000" />
       <workItem from="1587224381753" duration="2700000" />
       <workItem from="1587377345878" duration="11813000" />
-      <workItem from="1587462241575" duration="2310000" />
+      <workItem from="1587462241575" duration="2722000" />
     </task>
     <servers />
   </component>
@@ -82,9 +80,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="136" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587385854655" />
-    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1587206478850">
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1587465030889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587206478850" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587465030889" />
   </component>
 </project>

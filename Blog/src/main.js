@@ -4,7 +4,7 @@ import VueResource from 'vue-resource'
 
 Vue.use(VueResource);
 
-// Custom directives
+// Global custom directives
 /*
 Vue.directive('rainbow', {
   bind(el, binding, vnode) {
@@ -27,7 +27,7 @@ Vue.directive('theme', {
 });
  */
 
-// Filters
+// Global filters
 /*
 Vue.filter('to-uppercase', function(value) {
   return value.toUpperCase();

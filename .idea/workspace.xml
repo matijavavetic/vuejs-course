@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0495a62-4a34-4079-9bd7-a598ce0323f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Blog/src/components/singleBlog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/components/addBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/components/addBlog.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1587224381753" duration="2700000" />
       <workItem from="1587377345878" duration="11813000" />
       <workItem from="1587462241575" duration="5410000" />
-      <workItem from="1587472376047" duration="1389000" />
+      <workItem from="1587472376047" duration="1991000" />
     </task>
     <servers />
   </component>
